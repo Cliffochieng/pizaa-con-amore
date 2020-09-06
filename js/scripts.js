@@ -149,7 +149,6 @@ $(document).ready(function(){
     $("#pizzatotal").append("Your bill is ksh. " +  checkoutTotal);
   })
 
-  // home button
   $("button.deliver").click(function(){
     $(".pizzatable").hide();
     $(".choice h2").hide();
