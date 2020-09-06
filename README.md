@@ -12,6 +12,5 @@
 ## Support and contact details
 {If you have any issues concerning the webpage u can find help through[cliffordchieng844@gmail.com]}
 ### License
-*{Determine the license under which this application can be used. See below for more details
-on licensing.}*
+*{MIT}*
 Copyright (c) {year} **{List of contributors or company name}**
