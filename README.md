@@ -13,4 +13,4 @@
 {If you have any issues concerning the webpage u can find help through[cliffordchieng844@gmail.com]}
 ### License
 *{MIT}*
-Copyright (c) {year} **{List of contributors or company name}**
+(c) {2020} **{Clifford Ochieng}**
