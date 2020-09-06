@@ -27,9 +27,11 @@ h1 {
   letter-spacing: 8px;
   color:purple;
   font-weight: bolder;
-  font-family: 'Wallpoet', cursive;
   font-size: 60px;
   text-shadow: 2px 2px 5px purple;
+}
+#collapsibleNavbar{
+  padding-left: 400px;
 }
 
 h5 {
@@ -69,7 +71,7 @@ nav .navbar{
 }
 
 .button{
-  border-radius: 10px;
+  border-radius: 30px;
 }
 #slogan{
   padding-top: 5%;
