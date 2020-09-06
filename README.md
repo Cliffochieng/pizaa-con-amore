@@ -6,7 +6,7 @@
 ## Setup/Installation Requirements
 {}
 ## Known Bugs
-{}
+{The page is not responsive to all devices.}
 ## Technologies Used
 {HTML,CSS, BOOTSTRAP and JAVASCRIPT}
 ## Support and contact details
